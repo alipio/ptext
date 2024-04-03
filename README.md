@@ -48,8 +48,8 @@ If you installed ptext (with the make install command) on a *nix system you can 
 ``` shell
 man ptext
 ```
-to see the maual page of ptext.
-Otherwise take a look at [./docs](./docs] directory to see the manual in diffrent formats!
+to see the manual page of ptext.
+Otherwise, take a look at [./docs](./docs) directory to see the manual in different formats!
 The markdown version of the [manual](./docs/manual.md)
 
 ### Goals🥅:
@@ -60,13 +60,13 @@ The markdown version of the [manual](./docs/manual.md)
 5. Add syntax highlighting configuration.
 6. Add file browser mode.
 7. Add shell mode.
-8. Add a self contained help-system.
+8. Add a self-contained help system.
 9. Add vertical and horizontal split.
 10. Add VI mode.
 11. Add utf support.
 
 ### Work in progress⚒️:
-This is still a work in progress project!
+This is still a work-in-progress project!
 
 ### Contributions💖:
 I appreciate contributions but first of all, you must read the <br>
